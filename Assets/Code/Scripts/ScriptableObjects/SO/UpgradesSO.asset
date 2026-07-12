@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d84747f1e714f8e4eb44ea7e6bf0ea1f, type: 3}
+  m_Name: UpgradesSO
+  m_EditorClassIdentifier: Assembly-CSharp::ListOfGOScriptableObject
+  listOfGO:
+  - {fileID: 3881076144273646100, guid: b554b305fa0019841a8203f1dc6d39cd, type: 3}
+  - {fileID: 3189981933278783508, guid: 2467f035659723d4781e91e9f65c4a0e, type: 3}
+  - {fileID: 1954416346721321505, guid: 5f3ecb65ea504484a962868ccc8dc62a, type: 3}
+  - {fileID: 1954416346721321505, guid: d1330c2a463bcd9478fa12347f237003, type: 3}
+  - {fileID: 4186410584185389661, guid: 8bb09c82eafc3f34bbb8d58da17ad57a, type: 3}

@@ -1,0 +1,52 @@
+{
+	"language_name":"English",
+	"play_button_text":"PLAY",
+	"level_editor_button_text":"LEVEL EDITOR",
+	"store_sign_text":"STORE",
+	"buy_150_text":"USD 0.00",
+	"buy_450_text":"USD 0.00",
+	"buy_1000_text":"USD 0.00",
+	"BG_store_text":"Enviroment",
+	"cash_150_video_text":"GET\n150",
+	"soon_text":"COMING\nSOON",
+	"settings_text":"Settings",
+	"reset_text":"Reset",
+	"window_mode_text":"Window mode",
+	"sounds_music_text":"Sounds & music",
+	"screen_resolution_text":"Screen resolution",
+	"language_text":"Language",
+	"save_settings_text":"Save settings?",
+	"yes_text":"YES",
+	"no_text":"NO",
+	"level_text":"Level",
+	
+	"play_hover":"Press to start the game",
+	"editor_hover":"Press to open game editor",
+	"store_hover":"Press to open in-game store",
+	"settings_hover":"Press to open game settings",
+	"exit_hover":"Press to exit the game",
+	"bg_store_hover":"Press to open background store",
+	"in_game_play_button":"Play",
+	
+	"save_load_editor_menu_text":"Save/Load Menu",
+	
+	"save_editor_menu_text":"Save",
+	"load_editor_menu_text":"Load",
+	"remove_editor_menu_text":"Remove",
+	"add_editor_menu_text":"Add",
+	
+	"car_setings_editor_menu_text":"Car\nSettings",
+	
+	"car_setings_text":"Car Settings",
+	
+	"car_model_text":"Car Model",
+	"milk_model_text":"Milk carton",
+	"can_model_text":"Can",
+	"banana_model_text":"Banana",
+	
+	"upgrades_text":"Upgrades",
+	"spiked_upgrades_text":"Spiked Wheels",
+	"rocket_upgrades_text":"Rocket",
+	"propeller_upgrades_text":"Propeller",
+	"wings_upgrades_text":"Wings"
+}

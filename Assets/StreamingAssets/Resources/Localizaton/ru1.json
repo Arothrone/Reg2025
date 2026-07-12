@@ -1,0 +1,54 @@
+{
+	"language_name":"Русский",
+	"play_button_text":"ИГРАТЬ",
+	"level_editor_button_text":"РЕДАКТОР УРОВНЕЙ",
+	"store_sign_text":"МАГАЗИН",
+	"buy_150_text":"РУБ 0.00",
+	"buy_450_text":"РУБ 0.00",
+	"buy_1000_text":"РУБ 0.00",
+	"BG_store_text":"Окуржение",
+	"cash_150_video_text":"ПОЛУЧИТЬ\n150",
+	"soon_text":"СКОРО",
+	"settings_text":"Настройки",
+	"reset_text":"Сбросить",
+	"window_mode_text":"Оконный режим",
+	"sounds_music_text":"Звуки и музыка",
+	"screen_resolution_text":"Разрешение экрана",
+	"language_text":"Язык",
+	"save_settings_text":"Сохранить?",
+	"yes_text":"ДА",
+	"no_text":"НЕТ",
+	"level_text":"Уровень",
+	
+	"play_hover":"Нажмите, чтобы начать игру",
+	"editor_hover":"Нажмите, чтобы создать уровень",
+	"store_hover":"Нажмите, чтобы открыть магазин",
+	"settings_hover":"Нажмите, чтобы открыть настройки",
+	"exit_hover":"Нажмите, чтобы выйти из игры",
+	"bg_store_hover":"Нажмите, чтобы открыть меню выбора обоев",
+	"in_game_play_button":"Играть",
+	
+	"save_load_editor_menu_text":"Сохранить/Загрузить",
+	
+	"save_editor_menu_text":"Сохранить",
+	"load_editor_menu_text":"Загрузить",
+	"remove_editor_menu_text":"Удалить",
+	"add_editor_menu_text":"Добавить",
+	
+	"car_setings_editor_menu_text":"Настройки\nМашины",
+	
+	"car_setings_text":"Настройки Машины",
+	
+	"car_model_text":"Модель",
+	"milk_model_text":"Картонка",
+	"can_model_text":"Банка",
+	"banana_model_text":"Банан",
+	
+	"upgrades_text":"Улучшения",
+	"spiked_upgrades_text":"Шипованые колеса",
+	"rocket_upgrades_text":"Ракета",
+	"propeller_upgrades_text":"Пропеллер",
+	"wings_upgrades_text":"Крылья"
+	
+	
+}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d84747f1e714f8e4eb44ea7e6bf0ea1f, type: 3}
+  m_Name: ListOfEditorPlacablePrefabs
+  m_EditorClassIdentifier: Assembly-CSharp::ListOfGOScriptableObject
+  listOfGO:
+  - {fileID: 8290846511829851081, guid: 6f596d6382acb4b40bb1dd29d4f6284f, type: 3}
+  - {fileID: 3423487680362064692, guid: 03b17343f1a309340ae5842f48fd800f, type: 3}
+  - {fileID: 1525466456338029446, guid: 1465fd9a64b56044dab85b7da77962e3, type: 3}
+  - {fileID: 7652513552845669512, guid: 66ee8dd490ff60b448b1414bee33089a, type: 3}
+  - {fileID: 8188103816731874156, guid: cf0f165fcb0cf594782255dee229ea56, type: 3}
+  - {fileID: 1448747413393120880, guid: db4d442ac8fa3a745b31f1b22e920e62, type: 3}
+  - {fileID: 4762722845484736645, guid: c91666c40f95c134fae428ecb4e9b600, type: 3}
+  - {fileID: 697805796509036334, guid: 6d5342f566438144c9bf70432150c986, type: 3}
+  - {fileID: 589047285854655884, guid: 571755b29d36a9f40ac585f4dd53cb75, type: 3}
